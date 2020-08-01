@@ -7,4 +7,4 @@ File                      | Information
 inverted_index.py         |Script to create inverted-index.<br/>
 sample_input.txt          |Sample input file.<br/>
 sample_input_corpus.txt   |Input corpus.<br/>
-sample_output.txt|        |Sample output file.<br/>
+sample_output.txt         |Sample output 
