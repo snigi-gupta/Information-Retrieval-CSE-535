@@ -20,6 +20,6 @@ qrel.txt              |Relevance judgement score
 BM25                  |Output scores for BM25 model
 DFR                   |Output scores for DFR model
 LM                    |Output scores for LM model
-scripts               |Python code for model evaluation
-src                   |Schema files for models
+schema                |Schema files for models
+json_to_trec.py       |Python code for model evaluation
 report.pdf            |Result summarization
